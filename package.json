@@ -1,0 +1,17 @@
+{
+  "name": "project01simple-calculatortypescript--01",
+  "version": "1.0.1",
+  "description": "Making a simple calculator using typescript",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saad",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "inquirer": "^9.2.16"
+  }
+}
